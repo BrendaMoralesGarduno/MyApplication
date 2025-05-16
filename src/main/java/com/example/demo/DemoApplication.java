@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class DemoApplication {
-//ESTO PERTENECE A BRENDA SE SUPONE ESTO ESTARA EN MAIN 
+//cCAMBIO DESDE BRENDA :) 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
